@@ -1,0 +1,40 @@
+_repo: Rescue-Dog-of-the-High-Pass_34466
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Shenton, Edward
+    birthdate: 1895
+    deathdate: 1977
+    gutenberg_agent_id: '37043'
+    url: http://www.gutenberg.org/2009/agents/37043
+covers:
+- cover_type: archival
+  image_path: 34466-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Kjelgaard, Jim
+    aliases:
+    - Kjelgaard, James Arthur
+    - Elgard, Jim
+    birthdate: 1910
+    deathdate: 1959
+    gutenberg_agent_id: '37042'
+    url: http://www.gutenberg.org/2009/agents/37042
+    wikipedia: http://en.wikipedia.org/wiki/Jim_Kjelgaard
+description: A boy who cannot master book learning but knows the mountains well is
+  accepted as a lay worker at the hospice in St. Bernard Pass, where he and his great
+  mastiff work to prove their worth.
+gutenberg_issued: '2010-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34466'
+  lccn: '58010336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mountain life -- Alps -- Juvenile fiction'
+- !lcc 'PZ'
+title: Rescue Dog of the High Pass
+url: http://www.gutenberg.org/ebooks/34466
